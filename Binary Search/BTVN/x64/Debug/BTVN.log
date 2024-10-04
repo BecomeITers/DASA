@@ -1,0 +1,5 @@
+﻿  BTVN.cpp
+D:\Cấu trúc dữ liệu & giải thuật\BTVN\BTVN\BinarySearch.h(18,1): warning C4715: 'NonChecking': not all control paths return a value
+D:\Cấu trúc dữ liệu & giải thuật\BTVN\BTVN\BinarySearch.h(77,1): warning C4715: 'binarysearch': not all control paths return a value
+D:\Cấu trúc dữ liệu & giải thuật\BTVN\BTVN\BinarySearch.h(42,1): warning C4715: 'NeighborsChecking': not all control paths return a value
+  BTVN.vcxproj -> D:\Cấu trúc dữ liệu & giải thuật\BTVN\x64\Debug\BTVN.exe

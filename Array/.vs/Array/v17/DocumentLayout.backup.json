@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2D756D-1843-44C4-831D-78941F65DDAA}|Array\\Array.vcxproj|E:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\Array\\Array\\Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C2D756D-1843-44C4-831D-78941F65DDAA}|Array\\Array.vcxproj|solutionrelative:Array\\Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2D756D-1843-44C4-831D-78941F65DDAA}|Array\\Array.vcxproj|E:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\Array\\Array\\Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C2D756D-1843-44C4-831D-78941F65DDAA}|Array\\Array.vcxproj|solutionrelative:Array\\Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Array.h",
+              "DocumentMoniker": "E:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\Array\\Array\\Array.h",
+              "RelativeDocumentMoniker": "Array\\Array.h",
+              "ToolTip": "E:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\Array\\Array\\Array.h",
+              "RelativeToolTip": "Array\\Array.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-09T16:56:55.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Array.cpp",
+              "DocumentMoniker": "E:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\Array\\Array\\Array.cpp",
+              "RelativeDocumentMoniker": "Array\\Array.cpp",
+              "ToolTip": "E:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\Array\\Array\\Array.cpp",
+              "RelativeToolTip": "Array\\Array.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T16:16:20.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  Stack.cpp
+E:\Cấu trúc dữ liệu & giải thuật\Stack\Stack\Stack.h(19,1): warning C4715: 'Stack::pop': not all control paths return a value
+  Stack.vcxproj -> E:\Cấu trúc dữ liệu & giải thuật\Stack\x64\Debug\Stack.exe

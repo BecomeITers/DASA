@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\Test tr\u00EA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E58AC103-CF2F-4E2E-8DB3-4ABEEC43AD4B}|Test tr\u00EA\\Test tr\u00EA.vcxproj|D:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\Test tr\u00EA\\Test tr\u00EA\\BinaryTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E58AC103-CF2F-4E2E-8DB3-4ABEEC43AD4B}|Test tr\u00EA\\Test tr\u00EA.vcxproj|solutionrelative:Test tr\u00EA\\BinaryTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58AC103-CF2F-4E2E-8DB3-4ABEEC43AD4B}|Test tr\u00EA\\Test tr\u00EA.vcxproj|D:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\Test tr\u00EA\\Test tr\u00EA\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E58AC103-CF2F-4E2E-8DB3-4ABEEC43AD4B}|Test tr\u00EA\\Test tr\u00EA.vcxproj|solutionrelative:Test tr\u00EA\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58AC103-CF2F-4E2E-8DB3-4ABEEC43AD4B}|Test tr\u00EA\\Test tr\u00EA.vcxproj|D:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\Test tr\u00EA\\Test tr\u00EA\\Test tr\u00EA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E58AC103-CF2F-4E2E-8DB3-4ABEEC43AD4B}|Test tr\u00EA\\Test tr\u00EA.vcxproj|solutionrelative:Test tr\u00EA\\Test tr\u00EA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.h",
+              "DocumentMoniker": "D:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\Test tr\u00EA\\Test tr\u00EA\\Node.h",
+              "RelativeDocumentMoniker": "Test tr\u00EA\\Node.h",
+              "ToolTip": "D:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\Test tr\u00EA\\Test tr\u00EA\\Node.h",
+              "RelativeToolTip": "Test tr\u00EA\\Node.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-19T15:59:01.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinaryTree.h",
+              "DocumentMoniker": "D:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\Test tr\u00EA\\Test tr\u00EA\\BinaryTree.h",
+              "RelativeDocumentMoniker": "Test tr\u00EA\\BinaryTree.h",
+              "ToolTip": "D:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\Test tr\u00EA\\Test tr\u00EA\\BinaryTree.h",
+              "RelativeToolTip": "Test tr\u00EA\\BinaryTree.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-19T16:00:28.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test tr\u00EA.cpp",
+              "DocumentMoniker": "D:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\Test tr\u00EA\\Test tr\u00EA\\Test tr\u00EA.cpp",
+              "RelativeDocumentMoniker": "Test tr\u00EA\\Test tr\u00EA.cpp",
+              "ToolTip": "D:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\Test tr\u00EA\\Test tr\u00EA\\Test tr\u00EA.cpp",
+              "RelativeToolTip": "Test tr\u00EA\\Test tr\u00EA.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T15:12:58.996Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
