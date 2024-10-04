@@ -91,6 +91,9 @@ namespace HashTable {
 			if (prevItem) {
 				prevItem->next = nextItem;
 			}
+			else {
+				table[index] = nextItem;
+			}
 			if (nextItem) {
 				nextItem->prev = prevItem;
 			}
