@@ -22,7 +22,7 @@ namespace HashTable {
 		int HashFunction(const string& key) {
 			int hash = 0;
 			for (char ch : key) {
-				hash = (hash * 31 + ch) % capacity;
+				hash = (hash * 97 + ch) % capacity;
 			}
 			return hash;
 		}
