@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\BT UI-UX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D06CF569-81EA-46B5-B2B1-B4A69A75A7CF}|BT UI-UX\\BT UI-UX.vcxproj|E:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\BT UI-UX\\BT UI-UX\\BT UI-UX.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D06CF569-81EA-46B5-B2B1-B4A69A75A7CF}|BT UI-UX\\BT UI-UX.vcxproj|solutionrelative:BT UI-UX\\BT UI-UX.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BT UI-UX.cpp",
+              "DocumentMoniker": "E:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\BT UI-UX\\BT UI-UX\\BT UI-UX.cpp",
+              "RelativeDocumentMoniker": "BT UI-UX\\BT UI-UX.cpp",
+              "ToolTip": "E:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\BT UI-UX\\BT UI-UX\\BT UI-UX.cpp",
+              "RelativeToolTip": "BT UI-UX\\BT UI-UX.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T15:58:59.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\UI-UX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D415666D-128D-4901-A18A-52AD69838F04}|UI-UX\\UI-UX.vcxproj|D:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\UI-UX\\UI-UX\\UI-UX.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D415666D-128D-4901-A18A-52AD69838F04}|UI-UX\\UI-UX.vcxproj|solutionrelative:UI-UX\\UI-UX.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UI-UX.cpp",
+              "DocumentMoniker": "D:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\UI-UX\\UI-UX\\UI-UX.cpp",
+              "RelativeDocumentMoniker": "UI-UX\\UI-UX.cpp",
+              "ToolTip": "D:\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u \u0026 gi\u1EA3i thu\u1EADt\\UI-UX\\UI-UX\\UI-UX.cpp",
+              "RelativeToolTip": "UI-UX\\UI-UX.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T08:12:09.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
